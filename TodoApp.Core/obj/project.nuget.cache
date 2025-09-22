@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pb7bvBASgZA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\umara\\todo-app\\TodoApp.Core\\TodoApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umara\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

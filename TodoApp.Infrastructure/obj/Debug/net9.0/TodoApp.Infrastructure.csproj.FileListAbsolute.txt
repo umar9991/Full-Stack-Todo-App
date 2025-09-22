@@ -1,0 +1,15 @@
+C:\Users\umara\todo-app\TodoApp.Infrastructure\bin\Debug\net9.0\TodoApp.Infrastructure.deps.json
+C:\Users\umara\todo-app\TodoApp.Infrastructure\bin\Debug\net9.0\TodoApp.Infrastructure.dll
+C:\Users\umara\todo-app\TodoApp.Infrastructure\bin\Debug\net9.0\TodoApp.Infrastructure.pdb
+C:\Users\umara\todo-app\TodoApp.Infrastructure\bin\Debug\net9.0\TodoApp.Core.dll
+C:\Users\umara\todo-app\TodoApp.Infrastructure\bin\Debug\net9.0\TodoApp.Core.pdb
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.AssemblyInfo.cs
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp..D6B2378B.Up2Date
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.dll
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\refint\TodoApp.Infrastructure.dll
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.pdb
+C:\Users\umara\todo-app\TodoApp.Infrastructure\obj\Debug\net9.0\ref\TodoApp.Infrastructure.dll
